@@ -1,0 +1,24 @@
+Every match in the 10 seasons from 2009 till 2019 is listed with the following details.
+Div - Division (E0)
+Date - Date of the match
+HomeTeam
+AwayTeam
+FTHG - Full Time Goal of Home Team
+FTAG - Full Time Goal of Away Team
+FTR - Full Time Result (H - Home side win, A - Away side win, D - Draw)
+HTHG - Half Time Goal of Home Team
+HTAG - Half Time Goal of Away Team
+HTR - Half Time Result (H - Home side win, A - Away side win, D - Draw)
+Referee - Name of the referee who officiated the match
+HS - Total shots made by home team
+AS - Total shots made by away team
+HST - Total shots on target made by home team
+AST - Total shots on target made by away team
+HF - Total fouls committed by home team
+AF - Total fouls committed by away team
+HC - Total corners received for home team (conceded by away team)
+AC - Total corners received for away team (conceded by home team)
+HY - Total yellow cards received for home team
+AY - Total yellow cards received for away team
+HR - Total red cards received for home team
+AR - Total red cards received for away team
